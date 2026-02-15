@@ -20,7 +20,7 @@ This is an early-stage project. Only SQLite is fully functional. PostgreSQL and 
 ### Development
 
 ```bash
-cargo run -p zqlz-app
+cargo run # runs the default feature flags
 ```
 
 ### Release Build
