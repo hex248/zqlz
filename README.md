@@ -2,6 +2,7 @@
 
 A high-performance, cross-platform database IDE built with Rust and GPUI.
 
+![App](./ss.png)
 ## Overview
 
 ZQLZ is a modern database management tool designed for developers who value speed, reliability, and a native user experience. Built entirely in Rust using the GPUI rendering framework, it delivers sub-second startup times and smooth performance while maintaining a small binary footprint.
